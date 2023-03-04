@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     name: Build and test
-    runs-on: buildjet-4vcpu-ubuntu-2004
+    runs-on: self-hosted
 
     strategy:
       matrix:
