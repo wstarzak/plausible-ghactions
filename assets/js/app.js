@@ -53,6 +53,7 @@ if (registerForm) {
   })
 }
 
+
 const changelogNotification = document.getElementById('changelog-notification')
 
 if (changelogNotification) {
